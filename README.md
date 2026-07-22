@@ -52,10 +52,38 @@ This system demonstrates advanced backend automation, handling of complex WebSoc
 ## 🖼 Visual Showcase
 
 
-<br>
 <div align="center">
-  <img src="chart.png" alt="Bot Interface/Logs" width="800"/>
-  <img src="trade_history.png" alt="Bot Interface/Logs" width="800"/>
+
+  <!-- Первое горизонтальное изображение -->
+  <img src="chart.png" alt="PNL Chart" width="800"/>
+  <br>
+  <i><font color="#808080">The bot at the state of margin ratio limit trading pause (Insurance Protocol).</font></i>
+
+  <br><br><br>
+
+  <!-- Второе горизонтальное изображение -->
+  <img src="trade_history.png" alt="Trade History" width="800"/>
+  <br>
+  <i><font color="#808080">Automated trade execution history on Binance Futures (attention to the "Side" column, 0 Profit means it's an open lot trade).</font></i>
+
+  <br><br><br>
+
+  <!-- Два вертикальных изображения рядом -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="vps_screenshot.jpeg" alt="Terminal Output 1" width="380"/>
+        <br>
+        <i><font color="#808080">System initialization and WebSocket connection handling.</font></i>
+      </td>
+      <td align="center">
+        <img src="vps_processing.jpeg" alt="Terminal Output 2" width="380"/>
+        <br>
+        <i><font color="#808080">The trading process of the bot in the terminal window.</font></i>
+      </td>
+    </tr>
+  </table>
+
 </div>
 <br>
 
