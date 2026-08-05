@@ -55,6 +55,12 @@ This system demonstrates advanced backend automation, handling of complex WebSoc
 <div align="center">
 
   <!-- Первое горизонтальное изображение -->
+  <img src="grid.jpg" alt="PNL Chart" width="800"/>
+  <br>
+  <i><font color="#808080">The bot at the state of grid placing and expansion.</font></i>
+
+  <br><br><br>
+  <!-- Первое горизонтальное изображение -->
   <img src="chart.png" alt="PNL Chart" width="800"/>
   <br>
   <i><font color="#808080">The bot at the state of margin ratio limit trading pause (Insurance Protocol).</font></i>
